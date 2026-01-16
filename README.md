@@ -25,12 +25,18 @@ Simple, fast, and surprisingly tense!
 ✨ Features
 
 ✔ Player vs Computer logic
+
 ✔ Randomized computer decisions
+
 ✔ Win / Lose / Draw states
+
 ✔ Turn progression system
+
 ✔ “Restart Game” support
+
 ✔ Fully client-side
+
 ✔ Lightweight & fast
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://hiddenblast.netlify.app/)
+🔗 Live Demo: https://hiddenblast.netlify.app/
 
