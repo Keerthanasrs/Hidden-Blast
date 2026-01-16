@@ -38,5 +38,5 @@ Simple, fast, and surprisingly tense!
 
 ✔ Lightweight & fast
 
-🔗 Live Demo: https://hiddenblast.netlify.app/
+
 
